@@ -1,6 +1,6 @@
 # SoT-SDK
 
-Contains 
+
 2.3.0.1
 
 Type: Internal
