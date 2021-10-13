@@ -1,7 +1,7 @@
 # SoT-SDK
 
 
-2.3.0.1
+Steam 2.3.0.1
 
 Type: Internal
 
