@@ -2,7 +2,6 @@
 
 
 Steam 2.3.0.1
-
 Type: Internal
 
 Type: External
